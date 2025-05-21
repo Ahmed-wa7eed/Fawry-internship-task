@@ -1,6 +1,6 @@
-# 🚀 Fawry Internship Task 
 
-## ❓ Q1: Custom Command (`mygrep.sh`)
+
+##  Custom Command (`mygrep.sh`)
 
 ### 📝 Reflective Section
 
